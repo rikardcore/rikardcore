@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rikardcore
 - 👀 I’m interested in developing development projects with developing developers, delivering benefits and revenues to all stake holders. As a developer you are a stake holder.
-- 🌱 I’m currently learning secrets, goals and user needs.
+- 🌱 I’m currently studying user needs.
 - 📫 How to reach me: me@rikard.info
 
 <!---
